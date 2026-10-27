@@ -1,0 +1,7 @@
+{
+  "name": "security_scan",
+  "version": "1.0.0",
+  "description": "Koddaki gizli anahtarlar veAPI tokenlarını taranır",
+  "author": "FoxGuard",
+  "permissions": ["scan_code", "read_files"]
+}
